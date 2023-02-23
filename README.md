@@ -3,7 +3,7 @@
  # **Python-MiniProject**      
    </div> 
 
-# **🐺Python Projects Included : **    
+# **🐺Python Projects:**    
 ```html                      
 OpenCV
 Automation
